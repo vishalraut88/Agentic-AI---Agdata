@@ -1,0 +1,10 @@
+langgraph
+langchain
+pandas
+scikit-learn
+langchain_community
+pypdf
+# unstructured
+# pdfminer
+# pygraphviz
+pdf2image
